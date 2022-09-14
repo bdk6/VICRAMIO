@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bdk_Memory)(type Legacy)(uri /home/wrcooke/usr/share/kicad/symbols/bdk_Memory.lib)(options "")(descr ""))
+  (lib (name VICRamIO-rescue)(type Legacy)(uri ${KIPRJMOD}/VICRamIO-rescue.lib)(options "")(descr ""))
+)
